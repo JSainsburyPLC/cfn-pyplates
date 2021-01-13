@@ -6,4 +6,4 @@ schema==0.2.0
 verlib==0.1
 
 # ReThought utilities require the following
-Jinja2==2.7.1
+Jinja2==2.10.1
